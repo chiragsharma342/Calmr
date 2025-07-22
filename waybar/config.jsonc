@@ -28,7 +28,7 @@
         //"sway/language",
         //"battery",
         "clock",
-        "tray",
+        //"tray",
         "custom/power"
     ],
     // Modules configuration
